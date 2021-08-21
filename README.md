@@ -1,7 +1,7 @@
-- Hi, I’m lu
-- I’m interested in learning
-- I’m currently learning python, js, php...
-- I’m looking to collaborate on anything
-- How to reach me @lucianoschimith
+- hi, I’m lu
+- i’m interested in learning
+- i’m currently learning python, js, php...
+- i’m looking to collaborate on anything
+- how to reach me @lucianoschimith
 - lu is trying, like Venusaur in Pokémon's opening, he's trying, ok? trying! with lower case, but trying...
 - 7 
